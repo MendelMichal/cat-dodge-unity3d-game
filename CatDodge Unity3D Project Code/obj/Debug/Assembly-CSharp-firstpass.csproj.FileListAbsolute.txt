@@ -1,0 +1,378 @@
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\nunit.framework.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Advertisements.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Analytics.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.HoloLens.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Networking.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Purchasing.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.TestRunner.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Timeline.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.UI.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.VR.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.UI.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.Cecil.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.DataContract.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\ExCSS.Unity.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.CecilTools.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.UI.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.UI.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Networking.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.TestRunner.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\nunit.framework.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.Timeline.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.HoloLens.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.VR.xml
+F:\te\testPaweł1 (1)\testPaweł1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\te\testPaweł1 (1)\testPaweł1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\te\testPaweł1 (1)\testPaweł1\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\te\testPaweł1 (1)\testPaweł1\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Public\Documents\Unity Projects\testpawel3\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\testpawel3\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Public\Documents\Unity Projects\testpawel3\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\nunit.framework.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.UI.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.VR.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.UI.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.Cecil.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.DataContract.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\ExCSS.Unity.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.CecilTools.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.UI.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.UI.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\nunit.framework.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.VR.xml
+E:\pobrane\testpawel3\testpawel3\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\pobrane\testpawel3\testpawel3\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\pobrane\testpawel3\testpawel3\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel3\testpawel3\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\nunit.framework.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.UI.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.VR.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.UI.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.Cecil.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.DataContract.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\ExCSS.Unity.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.CecilTools.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.UI.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.UI.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\nunit.framework.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.VR.xml
+E:\pobrane\testpawel4 (1)\testpawel4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\pobrane\testpawel4 (1)\testpawel4\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\pobrane\testpawel4 (1)\testpawel4\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel4 (1)\testpawel4\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\nunit.framework.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.UI.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.VR.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.UI.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.Cecil.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.DataContract.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\ExCSS.Unity.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.CecilTools.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.UI.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.UI.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\nunit.framework.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.VR.xml
+E:\pobrane\testpawel5 (1)\testpawel5\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\pobrane\testpawel5 (1)\testpawel5\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\pobrane\testpawel5 (1)\testpawel5\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel5 (1)\testpawel5\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\nunit.framework.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.UI.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.VR.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.UI.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.Cecil.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.DataContract.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\ExCSS.Unity.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.CecilTools.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.UI.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.UI.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\nunit.framework.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.VR.xml
+E:\pobrane\testpawel6\testpawel6\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\pobrane\testpawel6\testpawel6\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\pobrane\testpawel6\testpawel6\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\pobrane\testpawel6\testpawel6\obj\Debug\Assembly-CSharp-firstpass.pdb
